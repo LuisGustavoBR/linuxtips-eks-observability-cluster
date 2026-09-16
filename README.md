@@ -1,1 +1,1 @@
-# linuxtips-eks-observability-cluster
+![Observability Cluster](/assets/observability-cluster-architecture.png)
